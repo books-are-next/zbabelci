@@ -14,10 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - zbabelci_001.html
   - zbabelci_002.html
-  - zbabelci_003.html
-  - zbabelci_004.html
   - zbabelci_005.html
   - zbabelci_006.html
   - zbabelci_007.html
@@ -29,10 +26,43 @@ readingOrder:
   - zbabelci_013.html
   - zbabelci_014.html
   - zbabelci_015.html
-  - zbabelci_016.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: zbabelci_005.html
+        title: Věnování
+        hiddenTitle: true
+      - link: zbabelci_006.html
+        title: Citáty
+        hiddenTitle: true
+      - link: zbabelci_007.html
+        title: Osoby a události líčené...
+        hiddenTitle: true
+      - link: zbabelci_008.html
+        title: Pátek 4. V. 1945
+        hiddenTitle: false
+      - link: zbabelci_009.html
+        title: Sobota 5. V. 1945
+        hiddenTitle: false
+      - link: zbabelci_010.html
+        title: Neděle 6. V. 1945
+        hiddenTitle: false
+      - link: zbabelci_011.html
+        title: Pondělí 7. V. 1945
+        hiddenTitle: false
+      - link: zbabelci_012.html
+        title: Úterý 8. V. 1945
+        hiddenTitle: false
+      - link: zbabelci_013.html
+        title: Středa 9. V. 1945
+        hiddenTitle: false
+      - link: zbabelci_014.html
+        title: Čtvrtek 10. V. 1945
+        hiddenTitle: false
+      - link: zbabelci_015.html
+        title: Pátek 11. V. 1945
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
