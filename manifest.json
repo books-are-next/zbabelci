@@ -2,38 +2,18 @@
   "author": "Josef Škvorecký",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "skvorecky-zbabelci-c4c7f61",
+  "identifier": "skvorecky-zbabelci-0388af0",
   "languagecode": "cs",
   "modified": "2019-08-02T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Zbabělci",
-  "revision": "c4c7f61",
+  "revision": "0388af0",
   "generatedAt": {
-    "date": "Tue Mar 29 2022 12:49:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648558179562
+    "date": "Tue Mar 29 2022 13:07:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648559231584
   },
   "documents": [
-    {
-      "title": "Zbabělci",
-      "file": "zbabelci_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "zbabelci_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Zbabělci",
       "file": "zbabelci_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "zbabelci_001.html",
-      "next": "zbabelci_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Zbabělci",
-      "file": "zbabelci_003.html",
-      "words": 3,
-      "chars": 23,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "zbabelci_002.html",
-      "next": "zbabelci_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Zbabělci",
-      "file": "zbabelci_004.html",
-      "words": 89,
-      "chars": 592,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "zbabelci_003.html",
+      "order": 0,
+      "prev": null,
       "next": "zbabelci_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 4,
-      "prev": "zbabelci_004.html",
+      "order": 1,
+      "prev": "zbabelci_002.html",
       "next": "zbabelci_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 223,
       "ideas": 7,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "zbabelci_005.html",
       "next": "zbabelci_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "zbabelci_006.html",
       "next": "zbabelci_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 55312,
       "ideas": 356,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "zbabelci_007.html",
       "next": "zbabelci_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 99714,
       "ideas": 609,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "zbabelci_008.html",
       "next": "zbabelci_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 146815,
       "ideas": 1389,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "zbabelci_009.html",
       "next": "zbabelci_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 7840,
       "ideas": 8,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "zbabelci_010.html",
       "next": "zbabelci_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 112334,
       "ideas": 938,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "zbabelci_011.html",
       "next": "zbabelci_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 140692,
       "ideas": 907,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "zbabelci_012.html",
       "next": "zbabelci_014.html",
       "toc": [
@@ -281,7 +221,7 @@
       "chars": 43914,
       "ideas": 421,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "zbabelci_013.html",
       "next": "zbabelci_015.html",
       "toc": [
@@ -301,9 +241,9 @@
       "chars": 41596,
       "ideas": 153,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "zbabelci_014.html",
-      "next": "zbabelci_016.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -315,20 +255,20 @@
       ]
     },
     {
-      "title": "Zbabělci",
-      "file": "zbabelci_016.html",
-      "words": 43,
-      "chars": 298,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 15,
+      "title": "Tiráž • Zbabělci",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 918,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
       "prev": "zbabelci_015.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -342,9 +282,9 @@
       "ideas": 4813
     },
     "chapters": {
-      "words": 116238,
-      "chars": 649353,
-      "ideas": 4808
+      "words": 116103,
+      "chars": 648440,
+      "ideas": 4788
     }
   }
 }

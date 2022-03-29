@@ -40,9 +40,9 @@
             "filename": "zbabelci_001.md",
             "xhtml": "zbabelci_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -52,9 +52,9 @@
             "filename": "zbabelci_002.md",
             "xhtml": "zbabelci_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -64,9 +64,9 @@
             "filename": "zbabelci_003.md",
             "xhtml": "zbabelci_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -76,9 +76,9 @@
             "filename": "zbabelci_004.md",
             "xhtml": "zbabelci_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -93,8 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "zbabelci_006.md",
@@ -105,8 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citáty"
           },
           {
             "filename": "zbabelci_007.md",
@@ -117,8 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Osoby a události líčené..."
           },
           {
             "filename": "zbabelci_008.md",
@@ -130,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pátek 4. V. 1945"
           },
           {
             "filename": "zbabelci_009.md",
@@ -142,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Sobota 5. V. 1945"
           },
           {
             "filename": "zbabelci_010.md",
@@ -154,7 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Neděle 6. V. 1945"
           },
           {
             "filename": "zbabelci_011.md",
@@ -166,7 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pondělí 7. V. 1945"
           },
           {
             "filename": "zbabelci_012.md",
@@ -178,7 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Úterý 8. V. 1945"
           },
           {
             "filename": "zbabelci_013.md",
@@ -190,7 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Středa 9. V. 1945"
           },
           {
             "filename": "zbabelci_014.md",
@@ -202,7 +211,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Čtvrtek 10. V. 1945"
           },
           {
             "filename": "zbabelci_015.md",
@@ -214,15 +224,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pátek 11. V. 1945"
           },
           {
             "filename": "zbabelci_016.md",
             "xhtml": "zbabelci_016.xhtml",
             "id": 15,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -418,6 +429,6 @@
       "user": "books-are-next",
       "repo": "zbabelci"
     },
-    "generatedAt": 1648558096438
+    "generatedAt": 1648559126814
   }
 }
