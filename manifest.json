@@ -1,0 +1,350 @@
+{
+  "author": "Josef Škvorecký",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "skvorecky-zbabelci-c4c7f61",
+  "languagecode": "cs",
+  "modified": "2019-08-02T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Zbabělci",
+  "revision": "c4c7f61",
+  "generatedAt": {
+    "date": "Tue Mar 29 2022 12:49:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648558179562
+  },
+  "documents": [
+    {
+      "title": "Zbabělci",
+      "file": "zbabelci_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zbabelci_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zbabělci",
+      "file": "zbabelci_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "zbabelci_001.html",
+      "next": "zbabelci_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zbabělci",
+      "file": "zbabelci_003.html",
+      "words": 3,
+      "chars": 23,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zbabelci_002.html",
+      "next": "zbabelci_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zbabělci",
+      "file": "zbabelci_004.html",
+      "words": 89,
+      "chars": 592,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zbabelci_003.html",
+      "next": "zbabelci_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zbabělci",
+      "file": "zbabelci_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zbabelci_004.html",
+      "next": "zbabelci_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zbabělci",
+      "file": "zbabelci_006.html",
+      "words": 36,
+      "chars": 223,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zbabelci_005.html",
+      "next": "zbabelci_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zbabělci",
+      "file": "zbabelci_007.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zbabelci_006.html",
+      "next": "zbabelci_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pátek 4. V. 1945 • Zbabělci",
+      "file": "zbabelci_008.html",
+      "words": 9933,
+      "chars": 55312,
+      "ideas": 356,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zbabelci_007.html",
+      "next": "zbabelci_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pátek 4. V. 1945",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sobota 5. V. 1945 • Zbabělci",
+      "file": "zbabelci_009.html",
+      "words": 17826,
+      "chars": 99714,
+      "ideas": 609,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zbabelci_008.html",
+      "next": "zbabelci_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sobota 5. V. 1945",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Neděle 6. V. 1945 • Zbabělci",
+      "file": "zbabelci_010.html",
+      "words": 26187,
+      "chars": 146815,
+      "ideas": 1389,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zbabelci_009.html",
+      "next": "zbabelci_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Neděle 6. V. 1945",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pondělí 7. V. 1945 • Zbabělci",
+      "file": "zbabelci_011.html",
+      "words": 1516,
+      "chars": 7840,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zbabelci_010.html",
+      "next": "zbabelci_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pondělí 7. V. 1945",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úterý 8. V. 1945 • Zbabělci",
+      "file": "zbabelci_012.html",
+      "words": 20036,
+      "chars": 112334,
+      "ideas": 938,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zbabelci_011.html",
+      "next": "zbabelci_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úterý 8. V. 1945",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Středa 9. V. 1945 • Zbabělci",
+      "file": "zbabelci_013.html",
+      "words": 25077,
+      "chars": 140692,
+      "ideas": 907,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zbabelci_012.html",
+      "next": "zbabelci_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Středa 9. V. 1945",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtvrtek 10. V. 1945 • Zbabělci",
+      "file": "zbabelci_014.html",
+      "words": 8197,
+      "chars": 43914,
+      "ideas": 421,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zbabelci_013.html",
+      "next": "zbabelci_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtvrtek 10. V. 1945",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pátek 11. V. 1945 • Zbabělci",
+      "file": "zbabelci_015.html",
+      "words": 7295,
+      "chars": 41596,
+      "ideas": 153,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zbabelci_014.html",
+      "next": "zbabelci_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pátek 11. V. 1945",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zbabělci",
+      "file": "zbabelci_016.html",
+      "words": 43,
+      "chars": 298,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 15,
+      "prev": "zbabelci_015.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 116244,
+      "chars": 649392,
+      "ideas": 4813
+    },
+    "chapters": {
+      "words": 116238,
+      "chars": 649353,
+      "ideas": 4808
+    }
+  }
+}

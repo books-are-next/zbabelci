@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Zbabělci
   identifier: urn:uuid:9fe4f73b-0069-4eee-8b6d-27d1254abf56
   author: Josef Škvorecký
   publisher: Městská knihovna v Praze
   modified: '2019-08-02T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - zbabelci_001.html
   - zbabelci_002.html
@@ -30,6 +34,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
