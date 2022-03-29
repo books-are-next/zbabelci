@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:9fe4f73b-0069-4eee-8b6d-27d1254abf56" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Zbabělci</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Pátek 4. V. 1945</text>
+      </navLabel>
+      <content src="Text/zbabelci_008.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Sobota 5. V. 1945</text>
+      </navLabel>
+      <content src="Text/zbabelci_009.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Neděle 6. V. 1945</text>
+      </navLabel>
+      <content src="Text/zbabelci_010.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Pondělí 7. V. 1945</text>
+      </navLabel>
+      <content src="Text/zbabelci_011.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Úterý 8. V. 1945</text>
+      </navLabel>
+      <content src="Text/zbabelci_012.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Středa 9. V. 1945</text>
+      </navLabel>
+      <content src="Text/zbabelci_013.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Čtvrtek 10. V. 1945</text>
+      </navLabel>
+      <content src="Text/zbabelci_014.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Pátek 11. V. 1945</text>
+      </navLabel>
+      <content src="Text/zbabelci_015.xhtml#toc_marker-8"/>
+    </navPoint>
+  </navMap>
+</ncx>
