@@ -1,1 +1,424 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Zbabělci",
+      "identifier": "urn:uuid:9fe4f73b-0069-4eee-8b6d-27d1254abf56",
+      "author": "Josef Škvorecký",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-08-02T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP_dopis_bez1radku\nMLP-text--12-0\nMLP-text-bez1radku--12-0",
+      "brAfter": "MLP-text--0-12\nMLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP-citat \nMLP-dopis--I\nMLP-scenicke-poznamky\nMLP-text-doprava--I\nMLP-venovani",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "zbabelci_001.md",
+            "xhtml": "zbabelci_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_002.md",
+            "xhtml": "zbabelci_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_003.md",
+            "xhtml": "zbabelci_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_004.md",
+            "xhtml": "zbabelci_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_005.md",
+            "xhtml": "zbabelci_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_006.md",
+            "xhtml": "zbabelci_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_007.md",
+            "xhtml": "zbabelci_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_008.md",
+            "xhtml": "zbabelci_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_009.md",
+            "xhtml": "zbabelci_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_010.md",
+            "xhtml": "zbabelci_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_011.md",
+            "xhtml": "zbabelci_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_012.md",
+            "xhtml": "zbabelci_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_013.md",
+            "xhtml": "zbabelci_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_014.md",
+            "xhtml": "zbabelci_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_015.md",
+            "xhtml": "zbabelci_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zbabelci_016.md",
+            "xhtml": "zbabelci_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Zbabělci",
+      "identifier": "urn:uuid:9fe4f73b-0069-4eee-8b6d-27d1254abf56",
+      "author": "Josef Škvorecký",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-08-02T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_001.md",
+        "xhtml": "zbabelci_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_002.md",
+        "xhtml": "zbabelci_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_003.md",
+        "xhtml": "zbabelci_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_004.md",
+        "xhtml": "zbabelci_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_005.md",
+        "xhtml": "zbabelci_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_006.md",
+        "xhtml": "zbabelci_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_007.md",
+        "xhtml": "zbabelci_007.xhtml"
+      },
+      {
+        "titleSuggest": "Pátek 4. V. 1945",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_008.md",
+        "xhtml": "zbabelci_008.xhtml"
+      },
+      {
+        "titleSuggest": "Sobota 5. V. 1945",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_009.md",
+        "xhtml": "zbabelci_009.xhtml"
+      },
+      {
+        "titleSuggest": "Neděle 6. V. 1945",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_010.md",
+        "xhtml": "zbabelci_010.xhtml"
+      },
+      {
+        "titleSuggest": "Pondělí 7. V. 1945",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_011.md",
+        "xhtml": "zbabelci_011.xhtml"
+      },
+      {
+        "titleSuggest": "Úterý 8. V. 1945",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_012.md",
+        "xhtml": "zbabelci_012.xhtml"
+      },
+      {
+        "titleSuggest": "Středa 9. V. 1945",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_013.md",
+        "xhtml": "zbabelci_013.xhtml"
+      },
+      {
+        "titleSuggest": "Čtvrtek 10. V. 1945",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_014.md",
+        "xhtml": "zbabelci_014.xhtml"
+      },
+      {
+        "titleSuggest": "Pátek 11. V. 1945",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_015.md",
+        "xhtml": "zbabelci_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zbabelci_016.md",
+        "xhtml": "zbabelci_016.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/zbabelci_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_zbabelci_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-citat",
+      "MLP-citat-autor",
+      "MLP-dopis",
+      "MLP-dopis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-scenicke-poznamky",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text--I",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-doprava--I",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "MLP-venovani",
+      "MLP-znak-kurziva-11b",
+      "MLP-znak-kurziva-9b",
+      "char-style-override-1",
+      "char-style-override-10",
+      "char-style-override-11",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-4",
+      "char-style-override-5",
+      "char-style-override-6",
+      "char-style-override-7",
+      "char-style-override-8",
+      "char-style-override-9",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "zbabelci"
+    },
+    "generatedAt": 1648551478631
+  }
+}
