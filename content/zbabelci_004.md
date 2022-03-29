@@ -13,10 +13,9 @@ Text díla (Josef Škvorecký: Zbabělci), publikovaného [Městskou knihovnou�
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-  
-
 Verze 1.0 z 31. 7. 2019.
 
+  
   
 
 ![image002.jpg](./resources/image002_fmt.png)

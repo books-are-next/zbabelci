@@ -249,13 +249,17 @@ Přema vylezl po schodech nahoru a bylo vidět, jak říká chlapům ve dveří
 
 „Nemáš zač.“ Berta se zazubil a šel dál kolem čekající fronty s připraveným aparátem. Byl celý šťastný, že se mu podařilo mě vzít. A s automatem. Už jsem viděl, jak to po revoluci vystrčí za výklad s idiotskými podtitulky. „Zmužile do boje,“ napíše pode mě. Ale to bude dobré. Irena na tyhle idiotštiny nebyla tak citlivá jako já. Stejně jsem na ně byl citlivý jen já. A kluci z orchestru, ovšem. Bude to recese. Viděl jsem je, jak se postaví kolem Moutelíkovic výkladu a budou si z těch fotek utahovat. A já s nima. Vzpomněl jsem si na pana Macháčka. Ovšem. Berta dodá fotografický materiál. Fotografie lask. zapůjčil p. Albert Moutelík jun., bude napsáno vzadu. Asi barevnou reprodukcí olejomalby pana Leitnera, 6. květen v Kostelci. Už jsem se na tu knihu těšil. Moje fotka v ní určitě bude taky. To tam dá pan Macháček kvůli otci. Tak budu taky zvěčněn. Zvěčněn na věky věků v Kostelci. Rozhlédl jsem se po shromáždění. Od brány přicházeli pořád noví lidé a fronta pomalu postupovala. Z ledárny vyšel Jirka Vítů a nesl přes každé rameno dvě pušky. Za ním se objevil pan Weiss v majorské uniformě a za ním hlouček chlapů v československých uniformách. Jeden z nich vylezl po schodech k hlavní budově a připevnil vedle dveří plakát. Bylo na něm napsáno červenou barvou:
 
+  
+
 Rozkaz č. 1
 
 VEŠKERÉ STŘELNÉ ZBRANĚ A VÝBUŠNINY
 
 ODEVZDEJTE V MAGACÍNU.
 
-Plk. Čemelík v. r., velitel.
+_Plk. Čemelík v. r., velitel._
+
+  
 
 Hned jsem si vzpomněl na Perlíka. Otočil jsem se naň. Stál za mnou a díval se na plakát. Potom roztáhl ústa a vztekle se ušklíbl.
 
