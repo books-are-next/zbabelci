@@ -1,5 +1,5 @@
 ---
-title: Neděle 6. V. 1945
+title: Neděle 6\. V\. 1945
 contentType: prose
 ---
 

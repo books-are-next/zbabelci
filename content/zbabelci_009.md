@@ -1,5 +1,5 @@
 ---
-title: Sobota 5. V. 1945
+title: Sobota 5\. V\. 1945
 contentType: prose
 ---
 

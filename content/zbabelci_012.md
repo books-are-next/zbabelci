@@ -1,5 +1,5 @@
 ---
-title: Úterý 8. V. 1945
+title: Úterý 8\. V\. 1945
 contentType: prose
 ---
 

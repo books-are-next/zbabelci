@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - zbabelci_002.html
+  - promo.html
   - zbabelci_005.html
   - zbabelci_006.html
   - zbabelci_007.html
