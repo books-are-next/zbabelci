@@ -52,7 +52,7 @@
             "filename": "zbabelci_002.md",
             "xhtml": "zbabelci_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -295,49 +295,49 @@
         "xhtml": "zbabelci_007.xhtml"
       },
       {
-        "titleSuggest": "Pátek 4. V. 1945",
+        "titleSuggest": "Pátek 4\\. V\\. 1945",
         "subtitleSuggest": "",
         "filename": "zbabelci_008.md",
         "xhtml": "zbabelci_008.xhtml"
       },
       {
-        "titleSuggest": "Sobota 5. V. 1945",
+        "titleSuggest": "Sobota 5\\. V\\. 1945",
         "subtitleSuggest": "",
         "filename": "zbabelci_009.md",
         "xhtml": "zbabelci_009.xhtml"
       },
       {
-        "titleSuggest": "Neděle 6. V. 1945",
+        "titleSuggest": "Neděle 6\\. V\\. 1945",
         "subtitleSuggest": "",
         "filename": "zbabelci_010.md",
         "xhtml": "zbabelci_010.xhtml"
       },
       {
-        "titleSuggest": "Pondělí 7. V. 1945",
+        "titleSuggest": "Pondělí 7\\. V\\. 1945",
         "subtitleSuggest": "",
         "filename": "zbabelci_011.md",
         "xhtml": "zbabelci_011.xhtml"
       },
       {
-        "titleSuggest": "Úterý 8. V. 1945",
+        "titleSuggest": "Úterý 8\\. V\\. 1945",
         "subtitleSuggest": "",
         "filename": "zbabelci_012.md",
         "xhtml": "zbabelci_012.xhtml"
       },
       {
-        "titleSuggest": "Středa 9. V. 1945",
+        "titleSuggest": "Středa 9\\. V\\. 1945",
         "subtitleSuggest": "",
         "filename": "zbabelci_013.md",
         "xhtml": "zbabelci_013.xhtml"
       },
       {
-        "titleSuggest": "Čtvrtek 10. V. 1945",
+        "titleSuggest": "Čtvrtek 10\\. V\\. 1945",
         "subtitleSuggest": "",
         "filename": "zbabelci_014.md",
         "xhtml": "zbabelci_014.xhtml"
       },
       {
-        "titleSuggest": "Pátek 11. V. 1945",
+        "titleSuggest": "Pátek 11\\. V\\. 1945",
         "subtitleSuggest": "",
         "filename": "zbabelci_015.md",
         "xhtml": "zbabelci_015.xhtml"
@@ -429,6 +429,6 @@
       "user": "books-are-next",
       "repo": "zbabelci"
     },
-    "generatedAt": 1648559126814
+    "generatedAt": 1652351542086
   }
 }

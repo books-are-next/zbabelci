@@ -1,5 +1,5 @@
 ---
-title: Čtvrtek 10. V. 1945
+title: Čtvrtek 10\. V\. 1945
 contentType: prose
 ---
 

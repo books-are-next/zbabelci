@@ -1,22 +1,38 @@
 {
-  "author": "Josef Škvorecký",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "skvorecky-zbabelci-0388af0",
-  "languagecode": "cs",
-  "modified": "2019-08-02T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Zbabělci",
-  "revision": "0388af0",
+  "author": "Josef Škvorecký",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "skvorecky-zbabelci-132d331",
+  "revision": "132d331",
+  "readingOrder": [
+    "promo.html",
+    "zbabelci_005.html",
+    "zbabelci_006.html",
+    "zbabelci_007.html",
+    "zbabelci_008.html",
+    "zbabelci_009.html",
+    "zbabelci_010.html",
+    "zbabelci_011.html",
+    "zbabelci_012.html",
+    "zbabelci_013.html",
+    "zbabelci_014.html",
+    "zbabelci_015.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Mar 29 2022 13:07:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648559231584
+    "date": "Thu May 12 2022 10:41:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352088500
   },
   "documents": [
     {
-      "title": "Zbabělci",
-      "file": "zbabelci_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +40,7 @@
       "order": 0,
       "prev": null,
       "next": "zbabelci_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Zbabělci",
@@ -42,7 +50,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "zbabelci_002.html",
+      "prev": "promo.html",
       "next": "zbabelci_006.html",
       "toc": [
         {
@@ -95,7 +103,7 @@
       ]
     },
     {
-      "title": "Pátek 4. V. 1945 • Zbabělci",
+      "title": "Pátek 4. V. 1945",
       "file": "zbabelci_008.html",
       "words": 9933,
       "chars": 55312,
@@ -115,7 +123,7 @@
       ]
     },
     {
-      "title": "Sobota 5. V. 1945 • Zbabělci",
+      "title": "Sobota 5. V. 1945",
       "file": "zbabelci_009.html",
       "words": 17826,
       "chars": 99714,
@@ -135,7 +143,7 @@
       ]
     },
     {
-      "title": "Neděle 6. V. 1945 • Zbabělci",
+      "title": "Neděle 6. V. 1945",
       "file": "zbabelci_010.html",
       "words": 26187,
       "chars": 146815,
@@ -155,7 +163,7 @@
       ]
     },
     {
-      "title": "Pondělí 7. V. 1945 • Zbabělci",
+      "title": "Pondělí 7. V. 1945",
       "file": "zbabelci_011.html",
       "words": 1516,
       "chars": 7840,
@@ -175,7 +183,7 @@
       ]
     },
     {
-      "title": "Úterý 8. V. 1945 • Zbabělci",
+      "title": "Úterý 8. V. 1945",
       "file": "zbabelci_012.html",
       "words": 20036,
       "chars": 112334,
@@ -195,7 +203,7 @@
       ]
     },
     {
-      "title": "Středa 9. V. 1945 • Zbabělci",
+      "title": "Středa 9. V. 1945",
       "file": "zbabelci_013.html",
       "words": 25077,
       "chars": 140692,
@@ -215,7 +223,7 @@
       ]
     },
     {
-      "title": "Čtvrtek 10. V. 1945 • Zbabělci",
+      "title": "Čtvrtek 10. V. 1945",
       "file": "zbabelci_014.html",
       "words": 8197,
       "chars": 43914,
@@ -235,7 +243,7 @@
       ]
     },
     {
-      "title": "Pátek 11. V. 1945 • Zbabělci",
+      "title": "Pátek 11. V. 1945",
       "file": "zbabelci_015.html",
       "words": 7295,
       "chars": 41596,
@@ -255,11 +263,11 @@
       ]
     },
     {
-      "title": "Tiráž • Zbabělci",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 136,
-      "chars": 918,
-      "ideas": 21,
+      "words": 119,
+      "chars": 785,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "zbabelci_015.html",
@@ -277,9 +285,9 @@
   ],
   "totals": {
     "all": {
-      "words": 116244,
-      "chars": 649392,
-      "ideas": 4813
+      "words": 116227,
+      "chars": 649259,
+      "ideas": 4808
     },
     "chapters": {
       "words": 116103,

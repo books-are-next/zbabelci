@@ -1,5 +1,5 @@
 ---
-title: Pátek 11. V. 1945
+title: Pátek 11\. V\. 1945
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Pondělí 7. V. 1945
+title: Pondělí 7\. V\. 1945
 contentType: prose
 ---
 
