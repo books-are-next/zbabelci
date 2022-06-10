@@ -3,7 +3,7 @@ title: Středa 9\. V\. 1945
 contentType: prose
 ---
 
-  
+<section>
 
 Jakmile jsem se ráno octl na ulici, ztratil jsem se hned v pořádném chumlu. Od hranic ustupovala německá armáda. Po ulici táhla děsná směsice lidí, Němčíci v uprášených uniformách, někteří s puškama a jiní bez a mezi nima někteří na kolech, a ti si to hasili rychle na západ. A všude pořád uprchlíci. Jak jsem koukal, najednou se z vedlejšího domu vyvalil sklenář Franta v košili s vyhrnutýma rukávama, namířil si to rovnou mezi Němce, popad jednomu z nich pušku a začal mu s ní na zádech cloumat, Němec se chabě bránil, potom ji se sebe shodil a sklenář Franta zapad zase do svého domu s puškou, kterou si naštvaně nes v obou nikách. To lidi povzbudilo. Z obou stran se z chodníku sesypal dav chlapů na Němce. Natahovali ruce po puškách, ale Němci se srazili dohromady a nastavili flinty proti davu. Celý jejich hlouček se naježil hlavněma a chlapi se zastavili. Pak začali nadávat. Němci se zas hnuli a dav je nechal, až přešli, a pak se připojil. Připojil jsem se taky. Přede mnou pochodovaly zadnice těch chlapů a jejich záda, naditá v kabátech, a zdálo se mi, že jsou všichni nějak vypasení. To byla vzpoura. Šel jsem v dobré náladě za nima a chvílemi jsem vpředu zahlíd šedivé německé helmy a napřažené flinty. Dav spílal a nadával. Už jsme byli u protitankové překážky u Novotných a tam museli Němci trochu zpomalit, aby se promáčkli propustí v překážce. Jeden voják zůstal stát a čekal, až ostatní prolezou. Nějaký chlap po něm skočil a začal se s ním tahat o pušku. Dav vzkypěl. Dva Němci se otočili a napřáhli automaty. Uviděl jsem jim na moment do obličejů, měli je bezvýrazné a utahané, a viděl jsem ty automaty, jak se bojovně nastavily proti davu. Ozvalo se řvaní, chlapi, co byli vzadu, se začali tlačit na přední. Zakrylo mi to výhled. Jenom ty nadité zadnice se cpaly dopředu. A v tom zapráskaly dva výstřely, rychle za sebou, a dav se rázem rozpad, chlap přede mnou se bleskurychle obrátil a vrazil do mě celou silou, až jsem si sed na chodník. Zajiskřilo mně v očích, viděl jsem, že lidi prchají na všechny strany, a rázem bylo přede mnou vymeteno a proti mně u protitankové překážky stáli dva Němci s automatama, jednomu se z automatu kouřilo, a ten třetí Němec s puškou v ruce a dívali se bezvýrazně před sebe. Dřepěl jsem trochu překvapený na zemi a čuměl jsem na ně. Jeden o mě zavadil pohledem, ale ihned se zas otočil k druhým a řekl:
 
@@ -1816,3 +1816,5 @@ Zmlkli jsme.
 [^158]: Nejsem esesák, přísahám vám, nejsem! Pozn. red.
 
 [^159]: So! Du nicht SS, nicht wahr? Und was ist das? – Takže! Ty nejsi esesák, jo? A co je teda tohle?“ Pozn. red.
+
+</section>
