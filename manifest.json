@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-zbabelci-132d331",
-  "revision": "132d331",
+  "identifier": "skvorecky-zbabelci-9fff736",
+  "revision": "9fff736",
   "readingOrder": [
     "promo.html",
     "zbabelci_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:41:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352088500
+    "date": "Fri Jun 10 2022 17:58:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883925531
   },
   "documents": [
     {
@@ -45,9 +45,9 @@
     {
       "title": "Zbabělci",
       "file": "zbabelci_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 8,
+      "chars": 44,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -85,9 +85,9 @@
     {
       "title": "Zbabělci",
       "file": "zbabelci_007.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 23,
+      "chars": 146,
+      "ideas": 1,
       "role": "chapter",
       "order": 3,
       "prev": "zbabelci_006.html",
@@ -265,9 +265,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 119,
-      "chars": 785,
-      "ideas": 16,
+      "words": 84,
+      "chars": 573,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "zbabelci_015.html",
@@ -285,14 +285,14 @@
   ],
   "totals": {
     "all": {
-      "words": 116227,
-      "chars": 649259,
-      "ideas": 4808
+      "words": 116223,
+      "chars": 649237,
+      "ideas": 4801
     },
     "chapters": {
-      "words": 116103,
-      "chars": 648440,
-      "ideas": 4788
+      "words": 116134,
+      "chars": 648630,
+      "ideas": 4790
     }
   }
 }

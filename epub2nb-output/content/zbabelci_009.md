@@ -3,7 +3,7 @@ title: Sobota 5\. V\. 1945
 contentType: prose
 ---
 
-  
+<section>
 
 Probudil jsem se asi v půl deváté. Za oknem svítilo slunce a v pokoji bylo horko. Ležel jsem v posteli, trochu mě bolela hlava a v ústech jsem měl nechutný pocit. Ležel jsem a díval jsem se na svůj portrét od Rosti nad postelí. Můj vzhled na něm vzbuzoval úctu. Měl jsem obrovskou hlavu a úzká ramínka, takže jsem vypadal vzdělaně. A co bylo na obraze zajímavé, byl kontrast té intelektuálské palice a ušpiněného límečku u košile bez kravaty. Pamatoval jsem se na ten obraz. Tenkrát mě Rosťa maloval, zrovna když jsem přišel z práce z Mesršmitky, v bavlněné košili, usviněné olejem z ferrofluxu. Vypadal jsem na tom obraze jako Lenin. Díval jsem se tak na sebe a myslel jsem si, že to mám pěkný portrét, a že kdybych umřel, zůstala by po mně přece jen hezká věc. Ale jinak to bylo hnusné ráno. Zavřel jsem oči, ale nebyl jsem už dost unaven, abych spal nebo klímal.
 
@@ -1220,3 +1220,5 @@ Maminka vzala lahvičku s rumem a odměřila dvě lžičky. Měla o mých pot
 [^15]: Pozor, pozor! Německé tanky se blíží z Benešova do Prahy. Potřebujeme leteckou podporu! Spojenecké letectvo, pozor! Potřebujeme leteckou podporu! Pozn. red.
 
 [^16]: Honem! Vlajku pryč! Pozn. red.
+
+</section>

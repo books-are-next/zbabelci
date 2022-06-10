@@ -2,16 +2,37 @@
 title: Tiráž
 ---
 
+<section>  
 **Josef Škvorecký    
 Zbabělci**  
-Ilustrace na obálce Andra Luthfi/Shutterstock.com  
+</section>  
+<section>  
+</section>  
+<section>  
 Redakce Markéta Teuchnerová  
+</section>  
+<section>  
 Vydala Městská knihovna v Praze  
+</section>  
+<section>  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
+<section>  
 V MKP 1. elektronické vydání  
-1. vydání z 12. 5. 2022.
+</section>  
+<section>  
+</section>  
+<section>  
+</section>  
+<section>  
+</section>  
+<section>  
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
+
+<section>
 
 Znění tohoto textu vychází z díla [Zbabělci](https://search.mlp.cz/cz/titul/zbabelci/2479553/) tak, jak bylo vydáno nakladatelstvím Euromedia Group v Praze v roce 2005. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -28,3 +49,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
   
 
 ![image002.jpg](./resources/image002_fmt.png)
+
+</section>

@@ -3,7 +3,7 @@ title: Čtvrtek 10\. V\. 1945
 contentType: prose
 ---
 
-  
+<section>
 
 Ráno bylo Irenino okno nad řekou otevřené a stály v něm červené kytičky za zelenou mřížkou. Zastavil jsem se na mostě a zadíval jsem se do toho okna. Viděl jsem skleněný lustr na pomalovaném stropě v jejím pokoji a představoval jsem si ji, jak pod ním spí v pomačkaném pyžamu. Bylo už po všem, ale ona tu byla pořád. Šel jsem dál. Vešel jsem do pivováru a zarazil jsem se. Odněkud zaznělo hrozné skučení, jako včera paní doktorová Vašáková, projelo mi to páteří a najednou jsem nemyslel na Irenu. Lidi, kteří šli po cestě, se taky otáčeli. Ze skladiště se ozývaly rány a znova skučení. To už jsem věděl, co se děje, a rozlila se ve mně divná chuť to vidět. Šel jsem rychle. Esmani už neseděli na dvoře, to místo bylo teď prázdné, ale zbyly po nich ruksaky a všelijaké věci a válely se opuštěné po zemi. U dveří skladiště zase zaznělo zaskučení. Otevřel jsem a vlezl jsem dovnitř. Svítily tam lampy a zástup chlapů stál kolem něčeho uprostřed. Bylo slyšet rány a vzdechy a vzlykání. Stoupl jsem si k nim a viděl jsem to. Na zemi leželo několik nahých těl. Do jednoho, které se vůbec nehýbalo, bil zuřivě pan Mozol, obrkontrolór z Mesršmitky, holí s turistickými štítky a nadával. To tělo leželo na břiše a mělo záda plná krve. Pan Mozol řval svině německá, tumáš a tak, a činil se. Věděl jsem, že má proč, a mrazilo mě. Někteří z davu kolem řvali a nadávali taky, někteří jen stáli. Ve vzduchu byl divný zápach a dusno. Pak jsem v šeru zahlédl, že v rohu skladiště stojí ještě několik esesáků, měli na sobě uniformy a byli svázaní. Otočil jsem se a chtěl jsem jít ven. Vtom jsem na druhé straně uviděl bledou tvář Rosťovu.
 
@@ -844,3 +844,5 @@ Chvilku stála a pak mě rychle líbla na ústa a zašeptala dobrou noc, obrá
 [^163]: Gut. Du auch. – Dobře, ty taky. Pozn. red.
 
 [^164]: Čemu věříme. Goebbelsův text: „Pro nás jsou pouze dvě možnosti: buď to, čemu věříme, nehraje, buďto nás dějiny nepovolaly, buď jsme si toto poslání jen namluvili, a pak je také nedovedeme ke konci, potom dříve nebo později zmizíme z jeviště tohoto života tak, jako jsme přišli, potom nad naším hnutím nikdo neuroní ani slzu, ale řekne: Byli jsme zváženi, avšak byli jsme shledáni lehkými.“
+
+</section>

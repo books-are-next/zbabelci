@@ -3,7 +3,7 @@ title: Neděle 6\. V\. 1945
 contentType: prose
 ---
 
-  
+<section>
 
 Ráno jsem šel ke Skočdopolovům asi ve tři čtvrtě na osm. Venku bylo pršlavé počasí a mlha. Sotva jsem vylez z baráku, už jsem věděl, že je to s revolucí vážné. Lidi v turistických šatech a s rádiovkama na hlavách se trousili směrem k pivováru. Zbraně neměli, aspoň jsem neviděl, ale na rádiovkách měli našité trikolory a na zadnicích si nesli chlebníky. Já měl na sobě taky sportovní šaty, protože pršelo a nechtěl jsem si ničit sváteční kvádro. Pod viaduktem u Skočdopolovic skladu jsem potkal pana Mozola, celého bledého a kulhavého, jak se hrdinně belhá do pivováru. U pasu měl připevněnou starou rakouskou šavli a vypadal jako z americké crazy komedie. On musel být hrdinný. Protože za války moc hrdinný nebyl a dotáh to ve fabrice až na kontrolora Bauaufsichtu des deutschen Luftfahrtministeriums. Tak proto měl teď proč být hrdinný. Byl jsem zvědav, jestli v pivováře budou taky ostatní balové. Asi budou. Museli teď být, chudáci, všichni hrdinní.
 
@@ -249,7 +249,9 @@ Přema vylezl po schodech nahoru a bylo vidět, jak říká chlapům ve dveří
 
 „Nemáš zač.“ Berta se zazubil a šel dál kolem čekající fronty s připraveným aparátem. Byl celý šťastný, že se mu podařilo mě vzít. A s automatem. Už jsem viděl, jak to po revoluci vystrčí za výklad s idiotskými podtitulky. „Zmužile do boje,“ napíše pode mě. Ale to bude dobré. Irena na tyhle idiotštiny nebyla tak citlivá jako já. Stejně jsem na ně byl citlivý jen já. A kluci z orchestru, ovšem. Bude to recese. Viděl jsem je, jak se postaví kolem Moutelíkovic výkladu a budou si z těch fotek utahovat. A já s nima. Vzpomněl jsem si na pana Macháčka. Ovšem. Berta dodá fotografický materiál. Fotografie lask. zapůjčil p. Albert Moutelík jun., bude napsáno vzadu. Asi barevnou reprodukcí olejomalby pana Leitnera, 6. květen v Kostelci. Už jsem se na tu knihu těšil. Moje fotka v ní určitě bude taky. To tam dá pan Macháček kvůli otci. Tak budu taky zvěčněn. Zvěčněn na věky věků v Kostelci. Rozhlédl jsem se po shromáždění. Od brány přicházeli pořád noví lidé a fronta pomalu postupovala. Z ledárny vyšel Jirka Vítů a nesl přes každé rameno dvě pušky. Za ním se objevil pan Weiss v majorské uniformě a za ním hlouček chlapů v československých uniformách. Jeden z nich vylezl po schodech k hlavní budově a připevnil vedle dveří plakát. Bylo na něm napsáno červenou barvou:
 
-  
+</section>
+
+<section>
 
 Rozkaz č. 1
 
@@ -259,7 +261,9 @@ ODEVZDEJTE V MAGACÍNU.
 
 _Plk. Čemelík v. r., velitel._
 
-  
+</section>
+
+<section>
 
 Hned jsem si vzpomněl na Perlíka. Otočil jsem se naň. Stál za mnou a díval se na plakát. Potom roztáhl ústa a vztekle se ušklíbl.
 
@@ -2784,3 +2788,5 @@ Maminka odešla do kuchyně a já honem skočil do koupelny, abych se trochu um
 [^65]: Dobře. Pozn. red.
 
 [^66]: Do toho! Jdeme! Pozn. red.
+
+</section>

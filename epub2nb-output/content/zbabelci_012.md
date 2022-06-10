@@ -3,7 +3,7 @@ title: Úterý 8\. V\. 1945
 contentType: prose
 ---
 
-  
+<section>
 
 Sotva jsem ráno vylezl z baráku, uviděl jsem houf chlapů v zelených khaki uniformách s ranci na zádech a se zaprášenýma botama, jak táhnou ulicí. Svítilo slunce a chlapi vypadali ušle a mlčenlivě. Hned mě napadlo, že to jsou Angličani. Vpředu šel nějaký vytáhlý, hubený, s vpadlými tvářemi a vedle něho malý děda, který měl nohy do O a ser­žantské pásky na rukávě. Dostal jsem z nich radost. Přistoupil jsem k dědovi a zeptal jsem se ho:
 
@@ -1878,3 +1878,5 @@ Rosta se na mě podíval.
 [^145]: Vsaďte se, že je. Pozn. red.
 
 [^146]: Brzy na viděnou, hoši. _Pozn. red._
+
+</section>
