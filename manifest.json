@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-zbabelci-21c98c5",
-  "revision": "21c98c5",
+  "identifier": "skvorecky-zbabelci-14e8cf1",
+  "revision": "14e8cf1",
   "readingOrder": [
     "promo.html",
     "zbabelci_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:15:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949708203
+    "date": "Mon Jun 13 2022 21:33:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155986124
   },
   "documents": [
     {
@@ -265,9 +265,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 84,
-      "chars": 573,
-      "ideas": 7,
+      "words": 114,
+      "chars": 736,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "zbabelci_015.html",
@@ -285,9 +285,9 @@
   ],
   "totals": {
     "all": {
-      "words": 116223,
-      "chars": 649237,
-      "ideas": 4801
+      "words": 116253,
+      "chars": 649400,
+      "ideas": 4809
     },
     "chapters": {
       "words": 116134,
