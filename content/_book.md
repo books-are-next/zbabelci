@@ -13,6 +13,7 @@ meta:
   modified: '2019-08-02T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2496-2
 readingOrder:
   - promo.html
   - zbabelci_005.html
