@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-zbabelci-14e8cf1",
-  "revision": "14e8cf1",
+  "identifier": "skvorecky-zbabelci-8c4a37f",
+  "revision": "8c4a37f",
   "readingOrder": [
     "promo.html",
     "zbabelci_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:33:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655155986124
+    "date": "Mon Jun 13 2022 22:01:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157716562
   },
   "documents": [
     {
