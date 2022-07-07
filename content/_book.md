@@ -27,7 +27,7 @@ readingOrder:
   - zbabelci_013.html
   - zbabelci_014.html
   - zbabelci_015.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
