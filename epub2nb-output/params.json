@@ -65,7 +65,7 @@
             "filename": "zbabelci_003.md",
             "xhtml": "zbabelci_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "zbabelci_004.md",
             "xhtml": "zbabelci_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -232,7 +232,7 @@
             "filename": "zbabelci_016.md",
             "xhtml": "zbabelci_016.xhtml",
             "id": 15,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -430,6 +430,6 @@
       "user": "books-are-next",
       "repo": "zbabelci"
     },
-    "generatedAt": 1655980154115
+    "generatedAt": 1657182718720
   }
 }
