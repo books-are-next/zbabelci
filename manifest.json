@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-zbabelci-42866f2",
-  "revision": "42866f2",
+  "identifier": "skvorecky-zbabelci-9192740",
+  "revision": "9192740",
   "readingOrder": [
     "promo.html",
     "zbabelci_005.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:54:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664909642285
+    "date": "Tue Oct 04 2022 23:10:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664925008514
   },
   "documents": [
     {
