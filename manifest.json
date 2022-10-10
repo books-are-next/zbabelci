@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-zbabelci-6bdc355",
-  "revision": "6bdc355",
+  "identifier": "skvorecky-zbabelci-5bdd203",
+  "revision": "5bdd203",
   "readingOrder": [
     "promo.html",
     "zbabelci_005.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:09:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151761504
+    "date": "Mon Oct 10 2022 16:01:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417699936
   },
   "documents": [
     {
@@ -266,7 +266,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 880,
+      "chars": 881,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -286,7 +286,7 @@
   "totals": {
     "all": {
       "words": 116271,
-      "chars": 649544,
+      "chars": 649545,
       "ideas": 4810
     },
     "chapters": {
